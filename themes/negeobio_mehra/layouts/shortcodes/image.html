@@ -1,0 +1,45 @@
+{{ $src := .Page.Resources.GetMatch (.Get "src") }}
+
+{{/* set image sizes, these are hardcoded for now, x dictates that images are resized to this width */}}
+
+{{ if $src }}
+  {{ $smallw := default "480x" }}
+  {{ $medw := default "640x" }}
+  {{ $largew := default "960x" }}
+  {{ $xlargew := default "1920x" }}
+
+  {{/* resize the src image to the given sizes */}}
+
+  {{ .Scratch.Set "small" ($src.Resize $smallw) }}
+  {{ .Scratch.Set "medium" ($src.Resize $medw) }}
+  {{ .Scratch.Set "large" ($src.Resize $largew) }}
+  {{ .Scratch.Set "xlarge" ($src.Resize $xlargew) }}
+
+  {{/* add the processed images to the scratch */}}
+
+  {{ $small := .Scratch.Get "small" }}
+  {{ $medium := .Scratch.Get "medium" }}
+  {{ $large := .Scratch.Get "large" }}
+  {{ $xlarge := .Scratch.Get "xlarge" }}
+
+  {{/* only use images smaller than or equal to the src (original) image size, as Hugo will upscale small images */}}
+
+  <img 
+    {{ with (.Get "sizes") }}sizes='{{.}}'{{ else }}sizes="100vw"{{ end }}
+    srcset='
+    {{ if ge $src.Width "480" }}
+      {{ with $small.RelPermalink }}{{.}} 480w {{ end }}
+    {{ end }}
+    {{ if ge $src.Width "640" }}
+      {{ with $medium.RelPermalink }}, {{.}} 640w {{ end }}
+    {{ end }}
+    {{ if ge $src.Width "960" }}
+      {{ with $large.RelPermalink }}, {{.}} 960w {{ end }}
+    {{ end }}
+    {{ if ge $src.Width "1920" }}
+      {{ with $xlarge.RelPermalink }}, {{.}} 1920w {{ end }}
+    {{ end }}'
+    src="{{ $medium.RelPermalink }}" 
+    {{ with (.Get "alt") }}alt="{{.}}"{{ else }}alt=""{{ end }}>
+  </img>
+{{ end }}

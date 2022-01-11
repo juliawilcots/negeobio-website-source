@@ -1,0 +1,12 @@
+---
+baseURL: "example"
+languageCode: "en-us"
+title: "Northeast Geobiology Symposium 2022"
+theme: "negeobio_mehra"
+markup:
+  goldmark:
+    extensions:
+        typographer: false
+    renderer:
+      unsafe: true
+---

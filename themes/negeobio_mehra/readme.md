@@ -1,0 +1,2 @@
+- Uses config.yaml (Ananke theme uses config.toml)
+- I changed color to MIT red (instead of Dartmouth green)
