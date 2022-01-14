@@ -1,5 +1,5 @@
 ---
-baseURL: "example"
+baseURL: "https://juliawilcots.github.io/NEGeobio-2022-MIT/"
 languageCode: "en-us"
 title: "Northeast Geobiology Symposium 2022"
 theme: "negeobio_mehra"
