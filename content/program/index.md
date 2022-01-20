@@ -11,7 +11,7 @@ menu:
 
 *Available mid-March*
 
-{{< fig >}}
+{{< fig figcaption="*Logo by Ellen Lalk*">}}
 {{< image src="NEGBlogo.jpg" >}}
 {{< /fig >}}
 
