@@ -1,5 +1,5 @@
 ---
-title: "Schedule"
+title: "Program"
 date: 2022-01-11T11:52:10-05:00
 draft: false
 menu:
