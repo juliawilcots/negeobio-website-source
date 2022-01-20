@@ -5,9 +5,7 @@ menu:
         weight: -10
         title: Home
 ---
-<head>
-<link rel="icon" href="http://example.com/favicon.png">
-</head>
+
 ## The 2022 Northeast Geobiology Symposium will be held in person at MIT on **April 16**. ##
 
 {{< fig figcaption="Plan view of a giant stromatolite in the Nafun Group, Huqf Desert, Sultanate of Oman. Photo: Noah Anderson" >}}
