@@ -4,7 +4,7 @@ date: 2022-01-11T11:52:43-05:00
 draft: false
 menu:
     main:
-        weight: 4
+        weight: 3
         title: "Code of Conduct"
 ---
 ## Code of Conduct

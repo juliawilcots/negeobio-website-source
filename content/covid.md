@@ -4,7 +4,7 @@ date: 2022-01-11T11:52:22-05:00
 draft: false
 menu:
     main:
-        weight: 3
+        weight: 2
         title: "Covid Policies"
 ---
 

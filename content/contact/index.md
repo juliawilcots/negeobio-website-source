@@ -4,7 +4,7 @@ date: 2022-01-11T11:52:28-05:00
 draft: false
 menu:
     main:
-        weight: 5
+        weight: 4
         title: "Contact"
 ---
 
