@@ -7,9 +7,7 @@ menu:
         weight: 5
 ---
 
-## Program and Schedule
-
-Abstracts submissions are due March 1, 2022, and will be available for download here in mid-March.
+## Schedule
 
 We will spend the day in and around the Ray and Maria Stata Center [(Building 32)](https://whereis.mit.edu/?go=32), located at 32 Vassar St, Cambridge MA 02139. Public parking is available at [lots around MIT](http://web.mit.edu/facilities/transportation/parking/visitors/public_parking.html), and we are working on subsidizing parking for the symposium.  
 
