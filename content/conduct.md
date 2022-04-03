@@ -37,7 +37,7 @@ Consequences of unacceptable behavior:
 
 Reporting unacceptable behavior:  
 
-If you are the subject of unacceptable behavior or have witnessed any such behavior, please immediately notify a meeting organizer in-person, by e-mail, or by phone. [Anonymous reporting option too?]  
+If you are the subject of unacceptable behavior or have witnessed any such behavior, please immediately notify a meeting organizer in-person or by email.
 
 Anyone experiencing or witnessing behavior that constitutes an immediate or serious threat to public safety, or a criminal act is expected to call 911 or, if on campus, the MIT Police (at (617) 253-1212). Those witnessing a potential criminal act should also take actions necessary to maintain their own personal safety.  
 
