@@ -10,7 +10,7 @@ menu:
 
 ## MIT Covid Policies
 
-We are following all of [MIT's policies](https://now.mit.edu/policies/events/) regarding COVID-19. In order to attend this conference, you must be fully vaccinated against COVID-19, including a booster shot. You will be asked to upload proof of vaccination (or an approved exemption) via MIT's ["Tim Ticket"](http://covidapps.mit.edu/visitors) system as we get closer to the symposium (stay tuned!). The City of Cambridge and MIT both have indoor mask mandates -- everyone must be masked at all times while indoors.
+We are following all of [MIT's policies](https://now.mit.edu/policies/events/) regarding COVID-19. In order to attend this conference, you must be fully vaccinated against COVID-19, including a booster shot. Masks are no longer required indoors at MIT.
 
 ## Additional considerations
 
