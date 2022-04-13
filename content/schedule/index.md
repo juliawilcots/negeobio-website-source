@@ -12,7 +12,7 @@ We will spend the day in and around the Ray and Maria Stata Center [(Building 32
 
 We are closely monitoring the local COVID situation and MIT's policies for events. The latest information can be found [here](https://now.mit.edu/).
 
-A PDF version of the schedule is available <a href="NEGeobio22_Schedule_0401.pdf" download>here</a>.
+A PDF version of the schedule is available <a href="NEGeobio22_Schedule_0411.pdf" download>here</a>.
 
 | Time | Event | Location |
 |---|---|---|
