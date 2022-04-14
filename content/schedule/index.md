@@ -19,12 +19,12 @@ A PDF version of the schedule is available <a href="NEGeobio22_Schedule_Final.pd
 | 7:00 AM | Earliest arrival time to park in the Stata Center lot| |
 | 8:00 AM – 9:00 AM | Arrival & Breakfast | Vest Student Streets|
 | 9:00 AM - 9:10 AM | Welcome & Land Acknowledgement | 32-123 |
-| 9:10 AM - 10:20 AM | **Session 1:** Evolution, Phylogeny, and Omics | 32-123 |
-| 10:20 AM - 10:50 AM | Coffee Break | Vest Student Streets |
-| 10:50 AM - 12:00 AM | **Session 2:** The Fossil Record & Diagenetic Processes | 32-123 |
-| 12:00 AM - 12:45 PM | Lunch | Forbes cafe/outside |
+| 9:10 AM - 10:40 AM | **Session 1:**  Isotopes and Friends | 32-123 |
+| 10:40 AM - 11:00 AM | Coffee Break | Vest Student Streets |
+| 11:00 AM - 12:00 PM | **Session 2:** Evolution, Phylogeny, and Omics | 32-123 |
+| 12:00 PM - 12:45 PM | Lunch | Forbes cafe/outside |
 | 1:00 PM - 2:30 PM | **Poster Session 1** | Vest Student Streets |
-| 2:30 PM - 3:40 PM | **Session 3:** Isotopes and Friends | 32-123 |
+| 2:30 PM - 3:40 PM | **Session 3:** The Fossil Record & Diagenetic Processes | 32-123 |
 | 3:40 PM - 4:00 PM | Coffee and snack break | Vest Student Streets |
 | 4:00 PM - 5:30 PM | **Poster Session 2** | Vest Student Streets |
 | 5:30 PM - 7:30 PM | Dinner Reception | Forbes cafe/outside |

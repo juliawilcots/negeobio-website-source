@@ -9,9 +9,9 @@ menu:
 
 ## Program
 
-We have an exciting lineup of early career speakers and presenters organized into three sessions of four talks each and two poster sessions of 18-20 posters each. Check them out [here](https://drive.google.com/file/d/1h2tZgrwUErTjn3iYxng0xPsynBHJmmRC/view), or click on the logo below.
+We have an exciting lineup of early career speakers and presenters organized into three sessions of four talks each and two poster sessions of 18-20 posters each. Download the abstract book [here](https://drive.google.com/file/d/1h2tZgrwUErTjn3iYxng0xPsynBHJmmRC/view), or see below.
 
-<iframe src="https://drive.google.com/file/d/1h2tZgrwUErTjn3iYxng0xPsynBHJmmRC/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1h2tZgrwUErTjn3iYxng0xPsynBHJmmRC/preview" width="800" height="520" allow="autoplay"></iframe>
 
 <!-- {{< figure src="NEGBlogo.jpg" link="https://drive.google.com/file/d/1vAtOfpoD-LokEOuGuXiYyqTebcyYJaS5/view" caption="Logo by Ellen Lalk" width="500">}} -->
 
